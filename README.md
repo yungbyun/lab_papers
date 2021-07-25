@@ -1,7 +1,7 @@
 ## Published Papers
 
-* 20210730, **Zeinab Shahbazi**, *Computers, Materials & Conitinua(SCIE)*. (Accepted)
-* 20210730, **Debapriya Hazra**, *Computers, Materials & Conitinua(SCIE)*. (Accepted)
+* 20210730, **Zeinab Shahbazi**, Blockchain and Machine Learning for Intelligent Multiple Factor Based Ride-Hailing Services, *Computers, Materials & Conitinua(SCIE)*. (Accepted)
+* 20210730, **Debapriya Hazra**, Generating Synthetic Data to Reduce Prediction Error of EnergyConsumption, *Computers, Materials & Conitinua(SCIE)*. (Accepted)
 * 20210716, **Prince Waqas Khan**, Blockchain-Based Peer-to-Peer Energy Trading and Charging Payment System for Electric Vehicles, *sustainability(SCIE)*.
 * 20210701, **Prince Waqas Khan**, Adaptive Error Curve Learning Ensemble Model for Improving Energy Consumption Forecasting, *Computers, Materials & Conitinua(SCIE)*.
 * 20210518, **Sadiqa Jafari**, Improving the Performance of Single-Intersection Urban Traffic Networks Based on a Model Predictive Controller, *sustainability*.
