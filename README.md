@@ -1,7 +1,7 @@
 ## Published Papers
 
 * 20210716, **Prince Waqas Khan**, Blockchain-Based Peer-to-Peer Energy Trading and Charging Payment System for Electric Vehicles, *sustainability(SCIE)*.
-* 20210716, **Prince Waqas Khan**, Adaptive Error Curve Learning Ensemble Model for Improving Energy Consumption Forecasting, *Computers, Materials & Conitinua(SCIE)*.
+* 20210701, **Prince Waqas Khan**, Adaptive Error Curve Learning Ensemble Model for Improving Energy Consumption Forecasting, *Computers, Materials & Conitinua(SCIE)*.
 * 20210518, **Sadiqa Jafari**, Improving the Performance of Single-Intersection Urban Traffic Networks Based on a Model Predictive Controller, *sustainability*.
 * 20210511, **Zeinab Shahbazi**, A Framework of Vehicular Security and Demand Service Prediction Based on Data Analysis Integrated with Blockchain Approach, *sensors(SCIE)*.
 * 20210427, **Se-Joon Park**, Extreme Gradient Boosting for Recommendation System by Transforming Product Classification into Regression Based on Multi-DimensionalWord2Vec, *symmetry(SCIE)*.
