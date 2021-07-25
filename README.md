@@ -38,6 +38,8 @@
 * 20200204, **Prince Waqas Khan**, A Blockchain-Based Secure Image Encryption Scheme for the Industrial Internet of Things, *entropy*.
 * 20200201, **Zeinab Shahbazi**, Deep Learning Method to Estimate the Focus Time of Paragraph, *International Journal of Machine Learning and Computing(SCOPUS)*.
 * 20200201, **Debapriya Hazra**, Brain Tumor Detection Using Skull Stripping and U-Net Architecture, *International Journal of Machine Learning and Computing(SCOPUS)*.
+* 20200101, **Debapriya Hazra**, Roof Edge Detection for Solar Panel Installation, *Lecture Notes in Networks and Systems(SCOPUS)*.
+* 20200101, **Zeinab Shahbazi**, LDA Topic Generalization on Museum Collections, *Lecture Notes in Networks and Systems(SCOPUS)*.
 * 20191231, **Wafa Shafqat**, A Recommendation Mechanism for Under-Emphasized Tourist Spots Using Topic Modeling and Sentiment Analysis, *sustainability(SCIE)*.
 * 20191213, **Wafa Shafqat**, Topic Predictions and Optimized Recommendation Mechanism Based on Integrated Topic Modeling and Deep Neural Networks in Crowdfunding Platforms, *applied sciences(SCIE)*.
 
