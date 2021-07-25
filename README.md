@@ -1,11 +1,14 @@
 ## Published Papers
 
+* 20210730, **Zeinab Shahbazi**, *Computers, Materials & Conitinua(SCIE)*. (Accepted)
+* 20210730, **Debapriya Hazra**, *Computers, Materials & Conitinua(SCIE)*. (Accepted)
 * 20210716, **Prince Waqas Khan**, Blockchain-Based Peer-to-Peer Energy Trading and Charging Payment System for Electric Vehicles, *sustainability(SCIE)*.
 * 20210701, **Prince Waqas Khan**, Adaptive Error Curve Learning Ensemble Model for Improving Energy Consumption Forecasting, *Computers, Materials & Conitinua(SCIE)*.
 * 20210518, **Sadiqa Jafari**, Improving the Performance of Single-Intersection Urban Traffic Networks Based on a Model Predictive Controller, *sustainability*.
 * 20210511, **Zeinab Shahbazi**, A Framework of Vehicular Security and Demand Service Prediction Based on Data Analysis Integrated with Blockchain Approach, *sensors(SCIE)*.
 * 20210427, **Se-Joon Park**, Extreme Gradient Boosting for Recommendation System by Transforming Product Classification into Regression Based on Multi-DimensionalWord2Vec, *symmetry(SCIE)*.
 * 20210415, **Zeinab Shahbazi**, Smart Manufacturing Real-Time Analysis Based on Blockchain and Machine Learning Approaches, *applied sciences(SCIE)*.
+* 20210326, **Zeinab Shahbazi**, Topic prediction and knowledge discovery based on integrated topic modeling and deep neural networks approaches, *Journal of Intelligent & Fuzzy Systems(SCIE)*.
 * 20210320, **Debapriya Hazra**, Generating Synthetic Fermentation Data of Shindari, a Traditional Jeju Beverage, Using Multiple Imputation Ensemble and Generative Adversarial Networks, *applied sciences(SCIE)*.
 * 20210312, **Eali Stephen Neal Joshua** 3D CNN with Visual Insights for Early Detection of Lung Cancer Using Gradient-Weighted Class Activation, *Journal of Healthcare Engineering (SCIE by Hindawi)*.
 * 20210220, **Zeinab Shahbazi**, Integration of Blockchain, IoT and Machine Learning for Multistage Quality Control and Enhancing Security in Smart Manufacturing, *sensors(SCIE)*.
